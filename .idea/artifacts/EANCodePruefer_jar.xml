@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="EANCodePruefer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EANCodePruefer_jar</output-path>
+    <root id="archive" name="EANCodePruefer.jar">
+      <element id="module-output" name="EANCodePruefer" />
+    </root>
+  </artifact>
+</component>
